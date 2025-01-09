@@ -38,6 +38,7 @@
             this.loginButton = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.colorDialog1 = new System.Windows.Forms.ColorDialog();
+            this.showPassword = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.igniteLogo)).BeginInit();
             this.SuspendLayout();
             // 
@@ -125,7 +126,7 @@
             this.loginButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.loginButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.loginButton.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.loginButton.Location = new System.Drawing.Point(137, 274);
+            this.loginButton.Location = new System.Drawing.Point(137, 287);
             this.loginButton.Margin = new System.Windows.Forms.Padding(2);
             this.loginButton.Name = "loginButton";
             this.loginButton.Size = new System.Drawing.Size(191, 33);
@@ -147,6 +148,20 @@
             this.label1.TabIndex = 16;
             this.label1.Text = "Log in";
             // 
+            // showPassword
+            // 
+            this.showPassword.AutoSize = true;
+            this.showPassword.BackColor = System.Drawing.Color.Transparent;
+            this.showPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.showPassword.ForeColor = System.Drawing.Color.White;
+            this.showPassword.Location = new System.Drawing.Point(137, 258);
+            this.showPassword.Name = "showPassword";
+            this.showPassword.Size = new System.Drawing.Size(122, 20);
+            this.showPassword.TabIndex = 25;
+            this.showPassword.Text = "Show Password";
+            this.showPassword.UseVisualStyleBackColor = false;
+            this.showPassword.CheckedChanged += new System.EventHandler(this.showPassword_CheckedChanged);
+            // 
             // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -154,6 +169,7 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(454, 413);
+            this.Controls.Add(this.showPassword);
             this.Controls.Add(this.signupLink);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.passwordText);
@@ -186,5 +202,6 @@
         private System.Windows.Forms.Button loginButton;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ColorDialog colorDialog1;
+        private System.Windows.Forms.CheckBox showPassword;
     }
 }

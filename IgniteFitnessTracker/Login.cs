@@ -77,5 +77,17 @@ namespace IgniteFitnessTracker
         {
 
         }
+
+        private void showPassword_CheckedChanged(object sender, EventArgs e)
+        {
+            if (passwordText.UseSystemPasswordChar)
+            {
+                passwordText.UseSystemPasswordChar = false;
+            }
+            else
+            {
+                passwordText.UseSystemPasswordChar = true;
+            }
+        }
     }
 }
