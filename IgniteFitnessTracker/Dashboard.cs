@@ -8,6 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Windows.Forms.DataVisualization;
+using System.Windows.Forms.DataVisualization.Charting;
 
 namespace IgniteFitnessTracker
 {
@@ -50,6 +52,9 @@ namespace IgniteFitnessTracker
 
             }
             input.Close();
+
+            // Display calorie data in chart
+            DisplayCalorieChart();
 
             // Displays recent activities
             if (activities.Count >= 6)
@@ -107,6 +112,62 @@ namespace IgniteFitnessTracker
             totalGoal.Text = $"{calorieGoal.ToString()} / {calorieTotal.ToString()}";
 
         }
+
+        private void DisplayCalorieChart()
+        {
+            // Create or configure a Chart control
+            Chart calorieChart = new Chart
+            {
+                Location = new Point(40, 300), // Bottom-left corner, adjust Y for padding
+                Size = new Size(546, 230), // Set size of the chart
+                Anchor = AnchorStyles.Left | AnchorStyles.Bottom, // Ensures it stays in the bottom-left corner on resize
+                BackColor = Color.Transparent,
+
+            };
+            this.Controls.Add(calorieChart);
+
+            // Add a ChartArea
+            ChartArea chartArea = new ChartArea("CalorieArea")
+            {
+                BackColor = Color.Transparent, // Make the chart area background transparent
+                AxisX = { LabelStyle = { ForeColor = Color.White }, TitleForeColor = Color.White }, // Make X-axis labels and title white
+                AxisY = { LabelStyle = { ForeColor = Color.White }, TitleForeColor = Color.White }  // Make Y-axis labels and title white
+            };
+            calorieChart.ChartAreas.Add(chartArea);
+
+            // Add a Series for the calorie data
+            Series series = new Series("Calories")
+            {
+                ChartType = SeriesChartType.Column, // Use a bar chart
+                BorderWidth = 2,
+                Color = Color.FromArgb(255, 128, 0),
+                LabelForeColor = Color.White
+            };
+            calorieChart.Series.Add(series);
+
+            // Add data points (calories and corresponding activities)
+            for (int i = 0; i < activities.Count; i += 2)
+            {
+                string activityName = activities[i];
+                int calorieValue = int.Parse(activities[i + 1]);
+
+                series.Points.AddXY(activityName, calorieValue);
+            }
+
+            // Add a title
+            Title chartTitle = new Title
+            {
+                Text = "Calorie Tracker",
+                ForeColor = Color.White, // Title text in white
+                Font = new Font("Arial", 14, FontStyle.Bold)
+            };
+            calorieChart.Titles.Add(chartTitle);
+
+            // Customize axes
+            chartArea.AxisX.Title = "Activities";
+            chartArea.AxisY.Title = "Calories Burned";
+        }
+
 
         private void logooutLink_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
