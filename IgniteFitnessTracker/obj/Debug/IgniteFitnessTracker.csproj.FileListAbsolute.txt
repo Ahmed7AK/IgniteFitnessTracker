@@ -1,0 +1,14 @@
+C:\Users\ahmed\source\repos\IgniteFitnessTracker\IgniteFitnessTracker\bin\Debug\IgniteFitnessTracker.exe.config
+C:\Users\ahmed\source\repos\IgniteFitnessTracker\IgniteFitnessTracker\bin\Debug\IgniteFitnessTracker.exe
+C:\Users\ahmed\source\repos\IgniteFitnessTracker\IgniteFitnessTracker\bin\Debug\IgniteFitnessTracker.pdb
+C:\Users\ahmed\source\repos\IgniteFitnessTracker\IgniteFitnessTracker\obj\Debug\IgniteFitnessTracker.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\IgniteFitnessTracker\IgniteFitnessTracker\obj\Debug\IgniteFitnessTracker.Form1.resources
+C:\Users\ahmed\source\repos\IgniteFitnessTracker\IgniteFitnessTracker\obj\Debug\IgniteFitnessTracker.Properties.Resources.resources
+C:\Users\ahmed\source\repos\IgniteFitnessTracker\IgniteFitnessTracker\obj\Debug\IgniteFitnessTracker.Signup.resources
+C:\Users\ahmed\source\repos\IgniteFitnessTracker\IgniteFitnessTracker\obj\Debug\IgniteFitnessTracker.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\IgniteFitnessTracker\IgniteFitnessTracker\obj\Debug\IgniteFitnessTracker.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\IgniteFitnessTracker\IgniteFitnessTracker\obj\Debug\IgniteFitnessTracker.exe
+C:\Users\ahmed\source\repos\IgniteFitnessTracker\IgniteFitnessTracker\obj\Debug\IgniteFitnessTracker.pdb
+C:\Users\ahmed\source\repos\IgniteFitnessTracker\IgniteFitnessTracker\obj\Debug\IgniteFitnessTracker.Login.resources
+C:\Users\ahmed\source\repos\IgniteFitnessTracker\IgniteFitnessTracker\obj\Debug\IgniteFitnessTracker.Dashboard.resources
+C:\Users\ahmed\source\repos\IgniteFitnessTracker\IgniteFitnessTracker\obj\Debug\IgniteFitnessTracker.AddActivity.resources

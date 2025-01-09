@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16031B9E-BCFE-42CA-9442-4D66D1B95CEF}|IgniteFitnessTracker\\IgniteFitnessTracker.csproj|C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\ignitefitnesstracker\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16031B9E-BCFE-42CA-9442-4D66D1B95CEF}|IgniteFitnessTracker\\IgniteFitnessTracker.csproj|solutionrelative:ignitefitnesstracker\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16031B9E-BCFE-42CA-9442-4D66D1B95CEF}|IgniteFitnessTracker\\IgniteFitnessTracker.csproj|c:\\users\\ahmed\\source\\repos\\ignitefitnesstracker\\ignitefitnesstracker\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16031B9E-BCFE-42CA-9442-4D66D1B95CEF}|IgniteFitnessTracker\\IgniteFitnessTracker.csproj|solutionrelative:ignitefitnesstracker\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16031B9E-BCFE-42CA-9442-4D66D1B95CEF}|IgniteFitnessTracker\\IgniteFitnessTracker.csproj|C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\ignitefitnesstracker\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16031B9E-BCFE-42CA-9442-4D66D1B95CEF}|IgniteFitnessTracker\\IgniteFitnessTracker.csproj|solutionrelative:ignitefitnesstracker\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16031B9E-BCFE-42CA-9442-4D66D1B95CEF}|IgniteFitnessTracker\\IgniteFitnessTracker.csproj|C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\ignitefitnesstracker\\addactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16031B9E-BCFE-42CA-9442-4D66D1B95CEF}|IgniteFitnessTracker\\IgniteFitnessTracker.csproj|solutionrelative:ignitefitnesstracker\\addactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16031B9E-BCFE-42CA-9442-4D66D1B95CEF}|IgniteFitnessTracker\\IgniteFitnessTracker.csproj|C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\ignitefitnesstracker\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16031B9E-BCFE-42CA-9442-4D66D1B95CEF}|IgniteFitnessTracker\\IgniteFitnessTracker.csproj|solutionrelative:ignitefitnesstracker\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16031B9E-BCFE-42CA-9442-4D66D1B95CEF}|IgniteFitnessTracker\\IgniteFitnessTracker.csproj|C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\ignitefitnesstracker\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16031B9E-BCFE-42CA-9442-4D66D1B95CEF}|IgniteFitnessTracker\\IgniteFitnessTracker.csproj|solutionrelative:ignitefitnesstracker\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16031B9E-BCFE-42CA-9442-4D66D1B95CEF}|IgniteFitnessTracker\\IgniteFitnessTracker.csproj|C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\ignitefitnesstracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16031B9E-BCFE-42CA-9442-4D66D1B95CEF}|IgniteFitnessTracker\\IgniteFitnessTracker.csproj|solutionrelative:ignitefitnesstracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16031B9E-BCFE-42CA-9442-4D66D1B95CEF}|IgniteFitnessTracker\\IgniteFitnessTracker.csproj|C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\ignitefitnesstracker\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16031B9E-BCFE-42CA-9442-4D66D1B95CEF}|IgniteFitnessTracker\\IgniteFitnessTracker.csproj|solutionrelative:ignitefitnesstracker\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\IgniteFitnessTracker\\Signup.cs",
+              "RelativeDocumentMoniker": "IgniteFitnessTracker\\Signup.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\IgniteFitnessTracker\\Signup.cs",
+              "RelativeToolTip": "IgniteFitnessTracker\\Signup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:51:13.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\IgniteFitnessTracker\\Login.cs",
+              "RelativeDocumentMoniker": "IgniteFitnessTracker\\Login.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\IgniteFitnessTracker\\Login.cs",
+              "RelativeToolTip": "IgniteFitnessTracker\\Login.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:51:05.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\IgniteFitnessTracker\\Dashboard.cs",
+              "RelativeDocumentMoniker": "IgniteFitnessTracker\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\IgniteFitnessTracker\\Dashboard.cs",
+              "RelativeToolTip": "IgniteFitnessTracker\\Dashboard.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:50:54.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\IgniteFitnessTracker\\Dashboard.cs",
+              "RelativeDocumentMoniker": "IgniteFitnessTracker\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\IgniteFitnessTracker\\Dashboard.cs [Design]",
+              "RelativeToolTip": "IgniteFitnessTracker\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:52:43.631Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\IgniteFitnessTracker\\Form1.cs",
+              "RelativeDocumentMoniker": "IgniteFitnessTracker\\Form1.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\IgniteFitnessTracker\\Form1.cs [Design]",
+              "RelativeToolTip": "IgniteFitnessTracker\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:49:08.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddActivity.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\IgniteFitnessTracker\\AddActivity.cs",
+              "RelativeDocumentMoniker": "IgniteFitnessTracker\\AddActivity.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\IgniteFitnessTracker\\AddActivity.cs",
+              "RelativeToolTip": "IgniteFitnessTracker\\AddActivity.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAcwDUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:50:45.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\IgniteFitnessTracker\\Activity.cs",
+              "RelativeDocumentMoniker": "IgniteFitnessTracker\\Activity.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\IgniteFitnessTracker\\Activity.cs",
+              "RelativeToolTip": "IgniteFitnessTracker\\Activity.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwDkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:22:53.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\IgniteFitnessTracker\\User.cs",
+              "RelativeDocumentMoniker": "IgniteFitnessTracker\\User.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\IgniteFitnessTracker\\IgniteFitnessTracker\\User.cs*",
+              "RelativeToolTip": "IgniteFitnessTracker\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:29:02.957Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
